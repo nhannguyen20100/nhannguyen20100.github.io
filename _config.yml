@@ -13,14 +13,12 @@ title: Nhan (Steve) Neguyen's Portfolio # This is what shows up in the tab of th
 
 # Hero Section
 name: Nhan (Steve) Nguyen
-headline: headline message
+headline: Mechanical Engineering with experience in manufacturing and software developing
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Mechanical Engineering graduate with 1.5 years of industry experience spanning manufacturing and R&D software development, with a strong focus on process improvement, equipment reliability, and engineering tool creation in Python and MATLAB.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/avatar.jpg
 
 
 # Link your resume
