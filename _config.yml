@@ -15,8 +15,8 @@ title: Nhan (Steve) Nguyen's Portfolio # This is what shows up in the tab of the
 name: Nhan (Steve) Nguyen
 headline: Welcome to my website!
 description: >- # dont remove this line. this will ignore all new lines until the next section
- Mechanical Engineering graduate with 1.5 years of industry experience spanning manufacturing and R&D software development, with a strong focus on process improvement, equipment reliability, and engineering tool creation in Python and MATLAB.
-
+Mechanical Engineering graduate with 1.5 years of industry experience spanning manufacturing and R&D software development, with a strong focus on process improvement, equipment reliability, and engineering tool creation in Python and MATLAB.
+Beside some engineering projects, I also have participated in some exhibition projects, as I am passionated about arts and fashion.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpg
 
